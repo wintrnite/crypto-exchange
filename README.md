@@ -52,3 +52,6 @@ ___
 App logs in **app.logs**
 
 App data base in  **app.db**
+
+# TODO
+* Рефакторинг кода в соответствии с принципами SOLID
